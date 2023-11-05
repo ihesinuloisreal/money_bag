@@ -1,5 +1,11 @@
 import React, {FunctionComponent} from 'react'
-import { GestureResponderEvent, ImageSourcePropType, ImageStyle, StyleProp, ViewStyle } from 'react-native';
+import { 
+    GestureResponderEvent, 
+    ImageSourcePropType, 
+    ImageStyle, 
+    StyleProp, 
+    ViewStyle 
+} from 'react-native';
 import styled from 'styled-components/native';
 
 
